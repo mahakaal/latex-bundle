@@ -4,7 +4,7 @@
     "description": "Latex and pdf generator for Symfony 2",
     "keywords": ["latex", "pdf", "generator", "symfony"],
     "type": "symfony-bundle",
-    "homepage": "http://github.com/bobvandevijver/latex-bundle",
+    "homepage": "http://github.com/mahakaal/latex-bundle",
     "license": "MIT",
     "authors": [
         {
